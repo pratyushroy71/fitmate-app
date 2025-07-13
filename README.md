@@ -73,7 +73,20 @@ Edit
 ### 📈 Community & Progress Sharing (Optional)
 - Ability to share weekly progress snapshots with friends or fitness coaches.
 
+- 
+Frontend Setup
+
+cd fitmate-client
+npm install
+npm start
+
 ---
+
+Backend Setup
+
+cd fitmate-server
+npm install
+npm run dev
 
 ## 📦 Getting Started
 
