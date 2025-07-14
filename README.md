@@ -40,19 +40,6 @@
 
 ---
 
-## 🛠️ Folder Structure
-
-FitMate/
-├── fitmate-client/ # React frontend
-├── fitmate-server/ # Node.js + Express backend
-├── .gitignore
-└── README.md
-
-yaml
-Copy
-Edit
-
----
 
 ## 🌱 Upcoming Features (In Progress)
 
@@ -73,19 +60,6 @@ Edit
 ### 📈 Community & Progress Sharing (Optional)
 - Ability to share weekly progress snapshots with friends or fitness coaches.
 
-- 
-Frontend Setup
-
-cd fitmate-client
-npm install
-npm start
-
----
-
-Backend Setup
-
-cd fitmate-server
-npm install
 npm run dev
 
 ## 📦 Getting Started
